@@ -1,5 +1,7 @@
 # Clock
 
+Clock Link: https://saminyc.github.io/Clock/
+
 This project is a simple demonstration of how to build an analog watch using HTML, CSS, and JavaScript. The watch face consists of a circular background and three hands (hour, minute, and second) that display the current time. The watch hands rotate smoothly in real time.
 
 Features:
