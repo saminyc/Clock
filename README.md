@@ -24,7 +24,7 @@ Implementing a stopwatch or timer function
 Adding different watch face designs or styles
 Making the watch interactive (e.g. clicking on a hand to set the time)
 Contributing
-Contributions to this project are welcome. If you find a bug or have an idea for an improvement, feel free to open an issue or submit a pull request.
+Contributions to this project are welcome. If you find a bug or have an idea for an improvement, please feel free to open an issue or submit a pull request.
 
 Credits:
 This project was created by Samin Yasar Chowdhury.
